@@ -1,4 +1,4 @@
-# hello-world
+# BEER CHART
 My First Depository
 
 I made a beer chart! Whoo! Enjoy.  
