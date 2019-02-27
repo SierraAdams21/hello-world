@@ -15,34 +15,34 @@ I'm *very* new here to GitHub and to programming in general. I am taking courses
     <thead>
       <tr>
         <th>Sierra's Favorite Beers</th>
-        <th>Number of Beers to Buyp</th>
-        <th>Next Action</th>
+        <th>Number of Beers to Buy</th>
+        <th>Where to Buy</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <th>Ashland Amber</th>
         <td>16</td>
-        <td>Package Items</td>
+        <td>Pick up beer at Caldera</td>
       </tr>
       <tr>
         <th>Portland Porter</th>
         <td>4</td>
-        <td>Send Invoice</td>
+        <td>Buy from Growler Guys</td>
       </tr>
       <tr>
         <th>San Francisco Saison</th>
         <td>6</td>
-        <td>Send Invoice</td>
+        <td>Order Online</td>
       </tr>
         <th>Seattle Stout</th>
         <td>4</td>
-        <td>Ship</td>
+        <td>Order Online</td>
       </tr>
       <tr>
         <th>Oakland IPA</th>
         <td>1</td>
-        <td>Enter Order</td>
+        <td>Pick up at Growler Guys</td>
       </tr>
       </tbody>
   </table>
